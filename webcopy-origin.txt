@@ -1,0 +1,496 @@
+Uri: https://polyfill-fastly.io/v3/polyfill.min.js?features=fetch
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&languageResolutionMethod=QueryParam&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_e3dd340ae79aaae27bfc8bc67bcc4efb_1057.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&languageResolutionMethod=QueryParam&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_0bc06c0536966f084480d46f82930210_1057.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-8
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&languageResolutionMethod=QueryParam&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_9e4de13f4db3a8e6d4ce6f1592648652_1057.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&languageResolutionMethod=QueryParam&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_c0ac8518a48d2b990383093a2b6f5f9b_1054.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-10
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4280.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=62844257.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_e3dd340ae79aaae27bfc8bc67bcc4efb_1057.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4280.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=62844257.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_0bc06c0536966f084480d46f82930210_1057.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-9
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4280.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=62844257.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_9e4de13f4db3a8e6d4ce6f1592648652_1057.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-3
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4280.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=62844257.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_c0ac8518a48d2b990383093a2b6f5f9b_1054.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-11
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&languageResolutionMethod=QueryParam&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_e3dd340ae79aaae27bfc8bc67bcc4efb_1057.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-4
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&languageResolutionMethod=QueryParam&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_9e4de13f4db3a8e6d4ce6f1592648652_1057.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-5
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4280.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=62844257.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_e3dd340ae79aaae27bfc8bc67bcc4efb_1057.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-6
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4280.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.kozmikbumz.com&fileId=62844257.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&metaSiteId=a6749eff-98f6-4b13-ac34-a09afbf43857&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C6467c15e-af3c-4e8d-b167-41bfb8efc32a&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=4ece7e_9e4de13f4db3a8e6d4ce6f1592648652_1057.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13223.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=4c26d867-86c0-4c3e-bb03-2d992afa0170&siteRevision=1057&staticHTMLComponentUrl=https:%2F%2Fwww-kozmikbumz-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\pages\pages\thunderbolt-7
+Content Type: application/json
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-lt-w10-roman.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-lt-w10-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-w01-roman.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-w01-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-w02-roman.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-w02-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\fonts\v2\af36905f-3c92-4ef9-b0c1-f91432f16ac1\v1\avenir-lt-w01_35-light1475496.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\fonts\v2\af36905f-3c92-4ef9-b0c1-f91432f16ac1\v1\avenir-lt-w05_35-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/c24fcada-6239-48bc-8b88-9288338191c9/v1/proxima-n-w01-reg.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\fonts\v2\c24fcada-6239-48bc-8b88-9288338191c9\v1\proxima-n-w01-reg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/c24fcada-6239-48bc-8b88-9288338191c9/v1/proxima-n-w05-reg.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\fonts\v2\c24fcada-6239-48bc-8b88-9288338191c9\v1\proxima-n-w05-reg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w01-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w02-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w10-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.920.0/siteTags.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\services\tag-manager-client\1.920.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/8875.46b20782.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\services\wix-thunderbolt\dist\8875.46b20782.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\services\wix-thunderbolt\dist\browser-deprecation.bundle.es5.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.7a7823a0.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\services\wix-thunderbolt\dist\main.7a7823a0.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.a20626f8.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\services\wix-thunderbolt\dist\main.renderer.a20626f8.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.bd36dfd5.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\services\wix-thunderbolt\dist\thunderbolt-commons.bd36dfd5.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/kellyslab/v17/-W_7XJX0Rz3cxUnJC5t6fkALfr8nfiIJ4w.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\kellyslab\v17\-W_7XJX0Rz3cxUnJC5t6fkALfr8nfiIJ4w.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/kellyslab/v17/-W_7XJX0Rz3cxUnJC5t6fkoLfr8nfiIJ4w.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\kellyslab\v17\-W_7XJX0Rz3cxUnJC5t6fkoLfr8nfiIJ4w.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/kellyslab/v17/-W_7XJX0Rz3cxUnJC5t6fkQLfr8nfiI.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\kellyslab\v17\-W_7XJX0Rz3cxUnJC5t6fkQLfr8nfiI.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/leaguespartan/v11/kJEqBuEW6A0lliaV_m88ja5TwvZ-LZmXD4ZhoJo.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\leaguespartan\v11\kJEqBuEW6A0lliaV_m88ja5TwvZ-LZmXD4ZhoJo.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/leaguespartan/v11/kJEqBuEW6A0lliaV_m88ja5TwvZwLZmXD4Zh.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\leaguespartan\v11\kJEqBuEW6A0lliaV_m88ja5TwvZwLZmXD4Zh.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/leaguespartan/v11/kJEqBuEW6A0lliaV_m88ja5TwvZ_LZmXD4ZhoJo.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\leaguespartan\v11\kJEqBuEW6A0lliaV_m88ja5TwvZ_LZmXD4ZhoJo.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4Q4FqL_KWxWMT.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\raleway\v26\1Ptsg8zYS_SKggPNyCg4Q4FqL_KWxWMT.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4QIFqL_KWxWMT.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\raleway\v26\1Ptsg8zYS_SKggPNyCg4QIFqL_KWxWMT.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4QoFqL_KWxWMT.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\raleway\v26\1Ptsg8zYS_SKggPNyCg4QoFqL_KWxWMT.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4SYFqL_KWxWMT.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\raleway\v26\1Ptsg8zYS_SKggPNyCg4SYFqL_KWxWMT.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\raleway\v26\1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\raleway\v26\1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCAIT4ttDfCmxA.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\raleway\v26\1Ptug8zYS_SKggPNyCAIT4ttDfCmxA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCIIT4ttDfCmxA.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\raleway\v26\1Ptug8zYS_SKggPNyCIIT4ttDfCmxA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCkIT4ttDfCmxA.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\raleway\v26\1Ptug8zYS_SKggPNyCkIT4ttDfCmxA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\raleway\v26\1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\unpkg\react-dom@18.3.1\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\unpkg\react@18.3.1\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png\v1\fill\w_180,h_180,lg_1,usm_0.66_1.00_0.01\15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png\v1\fill\w_192,h_192,lg_1,usm_0.66_1.00_0.01\15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png\v1\fill\w_32,h_32,lg_1,usm_0.66_1.00_0.01\15f6b6_e7bf82ec8bca4330a3156c7750fa253b~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_015164d6c52940448653bc839f63abaa~mv2.png/v1/fill/w_105,h_111,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_015164d6c52940448653bc839f63abaa~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_015164d6c52940448653bc839f63abaa~mv2.png\v1\fill\w_105,h_111,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_015164d6c52940448653bc839f63abaa~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_0ab799607c98455e9301a2b83505ed79~mv2.png/v1/fill/w_88,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_0ab799607c98455e9301a2b83505ed79~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_0ab799607c98455e9301a2b83505ed79~mv2.png\v1\fill\w_88,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_0ab799607c98455e9301a2b83505ed79~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_0af0d6064d554ca3b3ab58ede6453a70~mv2.png/v1/fill/w_53,h_24,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_0af0d6064d554ca3b3ab58ede6453a70~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_0af0d6064d554ca3b3ab58ede6453a70~mv2.png\v1\fill\w_53,h_24,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_0af0d6064d554ca3b3ab58ede6453a70~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_0af0d6064d554ca3b3ab58ede6453a70~mv2.png/v1/fill/w_824,h_367,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_0af0d6064d554ca3b3ab58ede6453a70~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_0af0d6064d554ca3b3ab58ede6453a70~mv2.png\v1\fill\w_824,h_367,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_0af0d6064d554ca3b3ab58ede6453a70~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_0e09331fe7d04638a9c181558c4a9297~mv2.png/v1/fill/w_52,h_35,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_0e09331fe7d04638a9c181558c4a9297~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_0e09331fe7d04638a9c181558c4a9297~mv2.png\v1\fill\w_52,h_35,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_0e09331fe7d04638a9c181558c4a9297~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_0e8c4acace7b4fde877c52c33e7c8c5d~mv2.png/v1/fill/w_99,h_74,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Drippy Third eye-4.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_0e8c4acace7b4fde877c52c33e7c8c5d~mv2.png\v1\fill\w_99,h_74,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\Drippy Third eye-4.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_15adec41d2274e98b3022db336891c03~mv2.png/v1/fill/w_181,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Drippy Third eye-1.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_15adec41d2274e98b3022db336891c03~mv2.png\v1\fill\w_181,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\Drippy Third eye-1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_187ab0d4ae0e4adfb3040a5671a0b4c4~mv2.png/v1/fill/w_179,h_192,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_187ab0d4ae0e4adfb3040a5671a0b4c4~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_187ab0d4ae0e4adfb3040a5671a0b4c4~mv2.png\v1\fill\w_179,h_192,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_187ab0d4ae0e4adfb3040a5671a0b4c4~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_1da6bc3833954e348a6b72a02180ec0c~mv2.png/v1/fill/w_49,h_93,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_1da6bc3833954e348a6b72a02180ec0c~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_1da6bc3833954e348a6b72a02180ec0c~mv2.png\v1\fill\w_49,h_93,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_1da6bc3833954e348a6b72a02180ec0c~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_1faad9e869af4dc5831d7ed91cd79dbb~mv2.png/v1/fill/w_60,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_1faad9e869af4dc5831d7ed91cd79dbb~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_1faad9e869af4dc5831d7ed91cd79dbb~mv2.png\v1\fill\w_60,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_1faad9e869af4dc5831d7ed91cd79dbb~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_22,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_22,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_29,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_29,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_35,h_47,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_35,h_47,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_35,h_47,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_35,h_47,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_35,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_35,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_38,h_51,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_38,h_51,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_38,h_52,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_38,h_52,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_39,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_39,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_42,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_42,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_43,h_58,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_43,h_58,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_48,h_65,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_48,h_65,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_49,h_66,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_49,h_66,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_54,h_73,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_54,h_73,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_55,h_75,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_55,h_75,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png/v1/fill/w_60,h_81,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png\v1\fill\w_60,h_81,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_212eb565522b4fdfac45814b81e261c5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_306d075ddc834b4fb11d7fc55ca0785e~mv2.png/v1/fill/w_387,h_238,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_306d075ddc834b4fb11d7fc55ca0785e~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_306d075ddc834b4fb11d7fc55ca0785e~mv2.png\v1\fill\w_387,h_238,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_306d075ddc834b4fb11d7fc55ca0785e~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_359c635a85b343c8b919ae2b9ba48d50~mv2.png/v1/fill/w_121,h_189,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_359c635a85b343c8b919ae2b9ba48d50~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_359c635a85b343c8b919ae2b9ba48d50~mv2.png\v1\fill\w_121,h_189,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_359c635a85b343c8b919ae2b9ba48d50~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_3e660d2afd284e9eb1b4bd7848d437d5~mv2.png/v1/fill/w_136,h_135,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_3e660d2afd284e9eb1b4bd7848d437d5~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_3e660d2afd284e9eb1b4bd7848d437d5~mv2.png\v1\fill\w_136,h_135,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_3e660d2afd284e9eb1b4bd7848d437d5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_41e325edf5064c9e96fe12d5d79f85cc~mv2.png/v1/fill/w_118,h_94,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_41e325edf5064c9e96fe12d5d79f85cc~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_41e325edf5064c9e96fe12d5d79f85cc~mv2.png\v1\fill\w_118,h_94,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_41e325edf5064c9e96fe12d5d79f85cc~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_46045b3926d741fead6ab17539b2f7b1f000.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_46045b3926d741fead6ab17539b2f7b1f000.jpg
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_46045b3926d741fead6ab17539b2f7b1f000.jpg\v1\fill\w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_46045b3926d741fead6ab17539b2f7b1f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/4ece7e_4f312e2ab9a3483aa753cd98cb5e3746~mv2.png/v1/fill/w_167,h_301,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_4f312e2ab9a3483aa753cd98cb5e3746~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_4f312e2ab9a3483aa753cd98cb5e3746~mv2.png\v1\fill\w_167,h_301,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_4f312e2ab9a3483aa753cd98cb5e3746~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_4f312e2ab9a3483aa753cd98cb5e3746~mv2.png/v1/fill/w_52,h_94,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_4f312e2ab9a3483aa753cd98cb5e3746~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_4f312e2ab9a3483aa753cd98cb5e3746~mv2.png\v1\fill\w_52,h_94,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_4f312e2ab9a3483aa753cd98cb5e3746~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_7425e1351e5b43ff9812776de9bf14bd~mv2.gif/v1/fill/w_125,h_125,al_c,usm_0.66_1.00_0.01,blur_3,pstr/4ece7e_7425e1351e5b43ff9812776de9bf14bd~mv2.gif
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_7425e1351e5b43ff9812776de9bf14bd~mv2.gif\v1\fill\w_125,h_125,al_c,usm_0.66_1.00_0.01,blur_3,pstr\4ece7e_7425e1351e5b43ff9812776de9bf14bd~mv2.gif
+Content Type: image/gif
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png/v1/fill/w_109,h_58,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png\v1\fill\w_109,h_58,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png/v1/fill/w_122,h_65,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png\v1\fill\w_122,h_65,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png/v1/fill/w_274,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png\v1\fill\w_274,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png/v1/fill/w_391,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CLOUD 1.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png\v1\fill\w_391,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\CLOUD 1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png/v1/fill/w_449,h_239,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CLOUD 1.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png\v1\fill\w_449,h_239,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\CLOUD 1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png/v1/fill/w_586,h_311,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CLOUD 1.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png\v1\fill\w_586,h_311,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\CLOUD 1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png/v1/fill/w_69,h_36,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png\v1\fill\w_69,h_36,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png/v1/fill/w_81,h_43,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png\v1\fill\w_81,h_43,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png/v1/fill/w_90,h_48,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png\v1\fill\w_90,h_48,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png/v1/fill/w_98,h_52,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/CLOUD 1.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ab288c549924c7596996d94d9ba4601~mv2.png\v1\fill\w_98,h_52,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\CLOUD 1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_8ee9aab8c77b4a35a2a93a98b1e552b9~mv2.png/v1/fill/w_159,h_139,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Drippy Third eye.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_8ee9aab8c77b4a35a2a93a98b1e552b9~mv2.png\v1\fill\w_159,h_139,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\Drippy Third eye.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_99f6125a4b194708a30843dd95604db8~mv2.png/v1/fill/w_873,h_590,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_99f6125a4b194708a30843dd95604db8~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_99f6125a4b194708a30843dd95604db8~mv2.png\v1\fill\w_873,h_590,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_99f6125a4b194708a30843dd95604db8~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_9b1614d3569c4d858fa8c222e3550ef0~mv2.png/v1/fill/w_63,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_9b1614d3569c4d858fa8c222e3550ef0~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_9b1614d3569c4d858fa8c222e3550ef0~mv2.png\v1\fill\w_63,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_9b1614d3569c4d858fa8c222e3550ef0~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_9dedca6e85a94ab2bfe3e9c38c18e51e~mv2.png/v1/fill/w_128,h_111,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Drippy Third eye-3.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_9dedca6e85a94ab2bfe3e9c38c18e51e~mv2.png\v1\fill\w_128,h_111,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\Drippy Third eye-3.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_b7e9fff1ff564ff49b7ad21c41138572~mv2.png/v1/fill/w_574,h_618,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PYRAMID BOTTOM 2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_b7e9fff1ff564ff49b7ad21c41138572~mv2.png\v1\fill\w_574,h_618,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\PYRAMID BOTTOM 2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_c2fe5c71b19f45bd8bcbfff6535d72da~mv2.png/v1/fill/w_184,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Drippy Third eye-2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_c2fe5c71b19f45bd8bcbfff6535d72da~mv2.png\v1\fill\w_184,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\Drippy Third eye-2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_dda05a7d345f469992e2b38ca49c95e1~mv2.png/v1/fill/w_180,h_239,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4ece7e_dda05a7d345f469992e2b38ca49c95e1~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_dda05a7d345f469992e2b38ca49c95e1~mv2.png\v1\fill\w_180,h_239,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\4ece7e_dda05a7d345f469992e2b38ca49c95e1~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_dda05a7d345f469992e2b38ca49c95e1~mv2.png/v1/fill/w_225,h_298,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_dda05a7d345f469992e2b38ca49c95e1~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_dda05a7d345f469992e2b38ca49c95e1~mv2.png\v1\fill\w_225,h_298,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_dda05a7d345f469992e2b38ca49c95e1~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_e389c0c268f142328584faa5d46f598c~mv2.png/v1/fill/w_60,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_e389c0c268f142328584faa5d46f598c~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_e389c0c268f142328584faa5d46f598c~mv2.png\v1\fill\w_60,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_e389c0c268f142328584faa5d46f598c~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png/v1/fill/w_323,h_311,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png\v1\fill\w_323,h_311,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png/v1/fill/w_81,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png\v1\fill\w_81,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png/v1/fill/w_93,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png\v1\fill\w_93,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_e8899dd516c646ea8d3b32a33ef2aa34~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_eed76b81599c4f79b15241efd9806bcd~mv2.png/v1/fill/w_871,h_193,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Kozmik World Banner Text.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_eed76b81599c4f79b15241efd9806bcd~mv2.png\v1\fill\w_871,h_193,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\Kozmik World Banner Text.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_eed76b81599c4f79b15241efd9806bcd~mv2.png/v1/fill/w_89,h_20,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_eed76b81599c4f79b15241efd9806bcd~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_eed76b81599c4f79b15241efd9806bcd~mv2.png\v1\fill\w_89,h_20,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_eed76b81599c4f79b15241efd9806bcd~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_eede56205fad4203861c90675367db12~mv2.png/v1/fill/w_78,h_72,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_eede56205fad4203861c90675367db12~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_eede56205fad4203861c90675367db12~mv2.png\v1\fill\w_78,h_72,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_eede56205fad4203861c90675367db12~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_ef85fe0af85c4348a182c3d682f22dd1~mv2.png/v1/crop/x_950,y_0,w_980,h_1293,q_90,blur_2,enc_avif,quality_auto/4ece7e_ef85fe0af85c4348a182c3d682f22dd1~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_ef85fe0af85c4348a182c3d682f22dd1~mv2.png\v1\crop\x_950,y_0,w_980,h_1293,q_90,blur_2,enc_avif,quality_auto\4ece7e_ef85fe0af85c4348a182c3d682f22dd1~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_ef85fe0af85c4348a182c3d682f22dd1~mv2.png/v1/crop/x_950,y_0,w_980,h_898,q_90,blur_2,enc_avif,quality_auto/4ece7e_ef85fe0af85c4348a182c3d682f22dd1~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_ef85fe0af85c4348a182c3d682f22dd1~mv2.png\v1\crop\x_950,y_0,w_980,h_898,q_90,blur_2,enc_avif,quality_auto\4ece7e_ef85fe0af85c4348a182c3d682f22dd1~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_efb448b7627641c4b778caf3dc67799e~mv2.png/v1/fill/w_74,h_97,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4ece7e_efb448b7627641c4b778caf3dc67799e~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_efb448b7627641c4b778caf3dc67799e~mv2.png\v1\fill\w_74,h_97,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\4ece7e_efb448b7627641c4b778caf3dc67799e~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/4ece7e_f91a00555d25411695bbe2047969bf7e~mv2.png/v1/fill/w_332,h_310,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4ece7e_f91a00555d25411695bbe2047969bf7e~mv2.png
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\media\4ece7e_f91a00555d25411695bbe2047969bf7e~mv2.png\v1\fill\w_332,h_310,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\4ece7e_f91a00555d25411695bbe2047969bf7e~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/ufonts/4ece7e_c158e3ec4bc04b11a17a4d5012c7255f/ttf/file.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\ufonts\4ece7e_c158e3ec4bc04b11a17a4d5012c7255f\ttf\file.ttf
+Content Type: font/ttf
+
+Uri: https://static.wixstatic.com/ufonts/4ece7e_c158e3ec4bc04b11a17a4d5012c7255f/woff/file.woff
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\ufonts\4ece7e_c158e3ec4bc04b11a17a4d5012c7255f\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/4ece7e_c158e3ec4bc04b11a17a4d5012c7255f/woff2/file.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\ufonts\4ece7e_c158e3ec4bc04b11a17a4d5012c7255f\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://static.wixstatic.com/ufonts/4ece7e_e03d41e030a84008bfb0291fb29137ae/ttf/file.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\ufonts\4ece7e_e03d41e030a84008bfb0291fb29137ae\ttf\file.ttf
+Content Type: font/ttf
+
+Uri: https://static.wixstatic.com/ufonts/4ece7e_e03d41e030a84008bfb0291fb29137ae/woff/file.woff
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\ufonts\4ece7e_e03d41e030a84008bfb0291fb29137ae\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/4ece7e_e03d41e030a84008bfb0291fb29137ae/woff2/file.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\ufonts\4ece7e_e03d41e030a84008bfb0291fb29137ae\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://www.kozmikbumz.com/
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\index.htm
+Content Type: text/html
+
+Uri: https://www.kozmikbumz.com/about
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\about.html
+Content Type: text/html
+
+Uri: https://www.kozmikbumz.com/videos
+File Name: C:\work\Downloaded Web Sites\15.01\www.kozmikbumz.com\videos.html
+Content Type: text/html
+
