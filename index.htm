@@ -250,7 +250,7 @@
     }
 
     body:not([data-js-loaded]) [data-hide-prejs] {
-        visibility: hidden
+       
     }
 
     #SITE_CONTAINER {
@@ -392,7 +392,7 @@
     }
 
     body.device-mobile-non-optimized.fullScreenMode #MOBILE_ACTIONS_MENU, body.device-mobile-non-optimized.fullScreenMode #SITE_BACKGROUND, body.device-mobile-non-optimized.fullScreenMode #site-root, body.fullScreenMode #WIX_ADS {
-        visibility: hidden
+       
     }
 
     body.fullScreenMode {
@@ -444,7 +444,7 @@
     }
 
     #site-root img:not([src]) {
-        visibility: hidden
+    
     }
 
     #site-root svg img:not([src]) {
@@ -968,7 +968,7 @@
 
     .XwCBRN .h3jCPd {
         margin-top: 7px;
-        visibility: hidden
+      visibility: visible!important;
     }
 
     .XwCBRN .h3jCPd[data-dropMode=dropUp] {
@@ -1189,7 +1189,7 @@
     }
 
     .LIhNy3 {
-        backface-visibility: hidden
+        
     }
 
     .HlRz5e {
@@ -1453,7 +1453,7 @@
     }
 
     .mwF7X1 {
-        backface-visibility: hidden
+ 
     }
 
     .YGilLk {
@@ -2769,7 +2769,7 @@
         box-shadow: var(--shd, 0 1px 4px rgba(0, 0, 0, .6));
         margin-top: 7px;
         padding: 15px 5px 0 5px;
-        visibility: hidden
+     
     }
 
     .YXlfNd [data-dropmode=dropUp] .O1lweY {
@@ -3570,7 +3570,7 @@
     }
 
     .cM88eO {
-        backface-visibility: hidden
+      
     }
 
     .YtfWHd {
@@ -3797,7 +3797,7 @@
     }
 
     .LIhNy3 {
-        backface-visibility: hidden
+     
     }
 
     .HlRz5e {
@@ -4064,7 +4064,7 @@
     }
 
     .mwF7X1 {
-        backface-visibility: hidden
+    
     }
 
     .YGilLk {
@@ -4331,7 +4331,7 @@
         font-size: 14px;
         opacity: 0;
         transform: translateY(-50%);
-        visibility: hidden
+     
     }
 
     .sjBFBr1.osJeo7L--isShown {
@@ -4877,6 +4877,23 @@
         .has-inner-focus-ring {
             --focus-ring-box-shadow: inset 0 0 0 1px #ffffff, inset 0 0 0 3px #116dff !important;
         }
+
+        .moving-box {
+    position: absolute; /* Use absolute for smoother movement */
+    animation: moveDown 2s ease-in-out infinite; /* Custom easing function for smoother motion */
+}
+
+@keyframes moveDown {
+    0% {
+        top: 0;
+    }
+    50% {
+        top: 2%; /* Increased distance for smoother movement */
+    }
+    100% {
+        top: 0;
+    }
+}
 
         #masterPage {
             left: 0;
@@ -7940,7 +7957,7 @@
     }
 
     [data-mesh-id=comp-lngy3mscinlineContent-wedge-4] {
-        visibility: hidden;
+   
         height: 606px;
         width: 0;
         grid-area: 1 / 1 / 4 / 2;
@@ -8172,7 +8189,7 @@
     }
 
     [data-mesh-id=comp-lnhrq6v3inlineContent-wedge-5] {
-        visibility: hidden;
+     
         height: 1622px;
         width: 0;
         grid-area: 1 / 1 / 5 / 2;
@@ -8304,7 +8321,7 @@
 
     #comp-lvoj1cki:hover #comp-lnj8uhhc, .keyboard-tabbing-on #comp-lvoj1cki:focus-within #comp-lnj8uhhc {
         opacity: 0;
-        visibility: hidden;
+      
     }
 
     #comp-lnj8uhhc {
@@ -8327,7 +8344,7 @@
 
     #comp-lvoj3ryg {
         opacity: 0;
-        visibility: hidden;
+        
     }
 
     #comp-lvoj1cki:hover #comp-lvoj3ryg, .keyboard-tabbing-on #comp-lvoj1cki:focus-within #comp-lvoj3ryg {
@@ -8939,8 +8956,8 @@
                         <div data-mesh-id="SITE_HEADERinlineContent" data-testid="inline-content" class="">
                             <div data-mesh-id="SITE_HEADERinlineContent-gridContainer"
                                  data-testid="mesh-container-content"><!--$-->
-                                <wix-dropdown-menu id="comp-lvgzeoa1"
-                                                   class="XwCBRN NHM1d1 comp-lvgzeoa1 wixui-dropdown-menu hidden-during-prewarmup"
+                                <div id="comp-lvgzeoa1"
+                                                   class="XwCBRN NHM1d1 comp-lvgzeoa1  "
                                                    tabindex="-1" dir="ltr" data-stretch-buttons-to-menu-width="false"
                                                    data-same-width-buttons="false" data-num-items="4"
                                                    data-menuborder-y="0" data-menubtn-border="0" data-ribbon-els="0"
@@ -9068,7 +9085,7 @@
                                                                  title="FLYING KOZMIK KAT.png">
                                                                 <div data-testid="linkElement" class="j7pOnl">
                                                                     <wow-image id="img_comp-lnguxbbc"
-                                                                               class="HlRz5e BI8PVQ"
+                                                                               class="HlRz5e BI8PVQ moving-box"
                                                                                data-image-info="{&quot;containerId&quot;:&quot;comp-lnguxbbc&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:873,&quot;targetHeight&quot;:590,&quot;isLQIP&quot;:false,&quot;encoding&quot;:&quot;AVIF&quot;,&quot;imageData&quot;:{&quot;width&quot;:2301,&quot;height&quot;:1555,&quot;uri&quot;:&quot;4ece7e_99f6125a4b194708a30843dd95604db8~mv2.png&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;hasAnimation&quot;:false}}"
                                                                                data-motion-part="BG_IMG comp-lnguxbbc"
                                                                                data-bg-effect-name=""
@@ -9429,13 +9446,13 @@
                                                                     </wow-image>
                                                                 </div>
                                                             </div><!--/$--><!--$-->
-                                                            <div id="comp-lngxo5tl" class="comp-lngxo5tl SPY_vo">
+                                                            <div id="comp-lngxo5tl" class="comp-lngxo5tl SPY_vo moving-box">
                                                                 <div data-mesh-id="comp-lngxo5tlinlineContent"
                                                                      data-testid="inline-content" class="">
                                                                     <div data-mesh-id="comp-lngxo5tlinlineContent-gridContainer"
                                                                          data-testid="mesh-container-content"><!--$-->
                                                                         <div id="comp-lngvbn39"
-                                                                             class="MazNVa comp-lngvbn39 wixui-image">
+                                                                             class="MazNVa comp-lngvbn39 wixui-image ">
                                                                             <div data-testid="linkElement"
                                                                                  class="j7pOnl">
                                                                                 <wow-image id="img_comp-lngvbn39"
@@ -9631,7 +9648,7 @@
                                                                             </div>
                                                                         </div><!--/$--><!--$-->
                                                                         <div id="comp-lngwu5zq"
-                                                                             class="MazNVa comp-lngwu5zq wixui-image">
+                                                                             class="MazNVa comp-lngwu5zq wixui-image moving-box">
                                                                             <div data-testid="linkElement"
                                                                                  class="j7pOnl">
                                                                                 <wow-image id="img_comp-lngwu5zq"
@@ -9648,7 +9665,7 @@
                                                                             </div>
                                                                         </div><!--/$--><!--$-->
                                                                         <div id="comp-lngwu602"
-                                                                             class="MazNVa comp-lngwu602 wixui-image">
+                                                                             class="MazNVa comp-lngwu602 wixui-image moving-box">
                                                                             <div data-testid="linkElement"
                                                                                  class="j7pOnl">
                                                                                 <wow-image id="img_comp-lngwu602"
@@ -9777,7 +9794,7 @@
                                                                             class="wixui-rich-text__text">Rewards for Those Who Seek True Wizdom!</span></span></span>
                                                                 </h2></div><!--/$--></div><!--$-->
                                                             <div id="comp-lngxsok3"
-                                                                 class="MazNVa comp-lngxsok3 wixui-image">
+                                                                 class="MazNVa comp-lngxsok3 wixui-image moving-box">
                                                                 <div data-testid="linkElement" class="j7pOnl">
                                                                     <wow-image id="img_comp-lngxsok3"
                                                                                class="HlRz5e BI8PVQ"
@@ -9914,7 +9931,7 @@
                                                                     <div data-mesh-id="comp-lnj895pwinlineContent-gridContainer"
                                                                          data-testid="mesh-container-content"><!--$-->
                                                                         <div id="comp-lngy4uh1"
-                                                                             class="MazNVa comp-lngy4uh1 wixui-image">
+                                                                             class="MazNVa comp-lngy4uh1 wixui-image moving-box">
                                                                             <div data-testid="linkElement"
                                                                                  class="j7pOnl">
                                                                                 <wow-image id="img_comp-lngy4uh1"
@@ -10063,7 +10080,7 @@
                                                                                     </div>
                                                                                 </div><!--/$--><!--$-->
                                                                                 <div id="comp-lnhpfwag"
-                                                                                     class="MazNVa comp-lnhpfwag wixui-image">
+                                                                                     class="MazNVa comp-lnhpfwag wixui-image moving-box">
                                                                                     <div data-testid="linkElement"
                                                                                          class="j7pOnl">
                                                                                         <wow-image
@@ -10449,7 +10466,7 @@
                                                                                              class="wixui-rich-text__text">Just Dose It.</span></span></span></span>
                                     </h2></div><!--/$--><!--$-->
                                     <wix-dropdown-menu id="comp-lvh0njo1"
-                                                       class="XwCBRN NHM1d1 comp-lvh0njo1 wixui-dropdown-menu hidden-during-prewarmup"
+                                                       class="XwCBRN NHM1d1 comp-lvh0njo1  "
                                                        tabindex="-1" dir="ltr"
                                                        data-stretch-buttons-to-menu-width="false"
                                                        data-same-width-buttons="false" data-num-items="4"
